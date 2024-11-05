@@ -1,3 +1,4 @@
-# Streamlit App
+# My StreamlitAPP
 
-Hi, here you can find my Streamlit App!
+Hi, here you can find my Streamlit App.
+Have fun!
