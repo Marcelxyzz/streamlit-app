@@ -2,3 +2,5 @@ segno
 pillow
 opencv-python-headless
 qrcode-artistic
+pymongo
+hugchat
